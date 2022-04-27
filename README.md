@@ -5,7 +5,7 @@
 - Ganesh Kumar Dharani
 - Nithin Sai Guvvala
 
-- INFO6205 Final Project : The Menace
+## INFO6205 Final Project : The Menace
 - Prof. Robin Hillyard
 
 - There are two versions we made as a part of the project ( *DEMO VIDEOS AVAILABLE IN THE REPOSITORY* )
@@ -13,7 +13,7 @@
 - 1. Training Version : To train the menace against human strategy UI that shows the progress of the training as a part of requirement
 - 2. Game Version : Program to train a menace and UI to play against a player 
 
-#Steps to run the project
+# Steps to run the project
 
 - 1. We have implemented the UIs using PySimpleGUI
 - 2. So to install the dependencies simply run 'pip install PySimpleGUI' in the terminal and the projects are ready to run
