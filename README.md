@@ -17,6 +17,8 @@
 
 - 1. We have implemented the UIs using PySimpleGUI
 
+- 2. To install the dependencies run the below command in the terminal and further the projects are ready to run
+
 ```
 pip install PySimpleGUI
 ```
