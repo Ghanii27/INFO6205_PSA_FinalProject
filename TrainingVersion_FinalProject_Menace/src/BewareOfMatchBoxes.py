@@ -364,12 +364,12 @@ def train(model, n = 10):
     print('Training Ended')
 
 
-
+m = Model(1000, 2, -1, 1)
 def startTraining():
     while True :  
         event, values = window.Read()
 
-        m = Model(1000, 2, -1, 1)
+        
         if event == 'train':
             train(m, 100) 
             trained = True   

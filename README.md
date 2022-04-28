@@ -11,7 +11,7 @@
 - There are two versions we made as a part of the project ( *DEMO VIDEOS AVAILABLE IN THE REPOSITORY* )
 
 - 1. Training Version : To train the menace against human strategy UI that shows the progress of the training as a part of requirement
-- 2. Game Version : Program to train a menace and UI to play against a player 
+- 2. Game Version : Program that enables a player to play against the menace that is trained using the above program
 
 # Steps to run the project
 
