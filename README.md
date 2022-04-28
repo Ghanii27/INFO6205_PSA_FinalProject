@@ -17,6 +17,9 @@
 
 - 1. We have implemented the UIs using PySimpleGUI
 - 2. So to install the dependencies simply run 'pip install PySimpleGUI' in the terminal and the projects are ready to run
+```
+pip install PySimpleGUI
+```
 
 - 3. (To run the training version) (demo video available)
 	- Run 'unitTestMenace.py' to run the unit tests
