@@ -16,7 +16,7 @@
 # Steps to run the project
 
 - 1. We have implemented the UIs using PySimpleGUI
-- 2. So to install the dependencies simply run 'pip install PySimpleGUI' in the terminal and the projects are ready to run
+- 2. To install the dependencies run the below command line in the terminal and the projects are ready to run
 ```
 pip install PySimpleGUI
 ```
