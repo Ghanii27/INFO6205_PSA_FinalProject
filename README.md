@@ -1,9 +1,9 @@
 ## INFO6205_PSA_FinalProject
 ## Team Members
 
-- Shenckerr Gollapudi 
-- Ganesh Kumar Dharani
-- Nithin Sai Guvvala
+- Shenckerr Gollapudi - 001569753
+- Ganesh Kumar Dharani - 002191922
+- Nithin Sai Guvvala - 001521107
 
 ## INFO6205 Final Project : The Menace
 - Prof. Robin Hillyard
